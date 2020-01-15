@@ -1,8 +1,8 @@
-### 显示区分布
+### Display area
 
-顶部显示 WIFI 信号、4G 信号、电量、当前时间；
+The top shows the WIFI signal, 4G signal, power, current time;
+The main body displays the payment application main menu；
 
-主体显示支付应用主菜单；
 
  ![image](./images/2.jpg)
  

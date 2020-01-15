@@ -1,5 +1,5 @@
-###音量控制
+###Volume Control
 
-可以在任一界面按下【F2】或【F3】按键进行音量-和音量+的控制
+You can press the [F2] or [F3] button on any interface to control the volume and volume +
 
 

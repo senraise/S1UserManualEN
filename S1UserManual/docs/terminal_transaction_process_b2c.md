@@ -1,15 +1,15 @@
-### 终端交易流程（B扫C）
+### Terminal Transaction Flow（B To C）
 
 
 
-1.在主菜单页面选择【1.消费】；
+1.Select [1. Gathering] on the main menu page;
 
-2.在【扫码支付】页面输入金额，并按【确认】按钮，即进入扫码操作页面；
+2.Enter the amount on the [Scanning Code Payment] page and press the [Confirm] button to enter the scanning code operation page;
 
 ![image](./images/8.jpg)
 
-              图 6-1 扫码操作页面
+              Fig. 6-1 Transaction Interface
 
-此时顾客可出示支付宝、微信、银联云闪付（可选），由S1扫码终端完成扫码交易流程
+At this point, the customer can present Alipay, WeChat, UnionPay cloud flash payment (optional), and the S1 scan code terminal completes the scan code transaction process.
 
 

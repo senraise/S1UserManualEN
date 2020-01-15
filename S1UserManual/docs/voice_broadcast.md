@@ -1,4 +1,4 @@
-###语音播报
+###Voice Broadcast
 
 
-在WIFI设置、终端交易过程中，S1扫码终端会以语音提示的形式反应WIFI设置情况、交易情况；
+In the WIFI setting and terminal transaction process, the S1 scan code terminal will respond to WIFI settings and transactions in the form of voice prompts;

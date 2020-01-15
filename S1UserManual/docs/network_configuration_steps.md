@@ -1,20 +1,19 @@
-### 网络配置步骤
+### Network Configuration Steps
 
 
-1.在主菜单页面选择【4.设置】；
+1.Select [ 4. Settings] on the main menu page.；
 
-2.在【管理员密码认证】页面输入授权密码，授权密码默认为数字123456，并按【确认】 按钮；
+2.Enter the authorization password on the [Administrator Password Authentication] page. The authorization password defaults to the number 123456 and press the [Confirm] button.
 
-3.在【设置】界面可以选择【2.WIFI】， 进入WIFI列表显示界面，如下图：
+3.In the [Settings] interface, you can select [2.WIFI] to enter the WIFI list display interface, as shown below.：
 
 ![image](./images/7.jpg)
 
-            图 3-1 WIFI列表显示界面
+            Fig. 3-1 WIFI List display interface
 
-用户可根据实际情况，使用"向上"按钮或"向下"按钮选择将要连接的WIFI热点名称，
-按【确认】键进入【选取网络】界面，输入此WIFI热点的密码，若WIFI密码包含字母，则使用"向上"按钮进行切换，
-例如：若WIFI密码包含字母”z”，则首先按下包含改字母的数字键"1"，之后按下"向上"按钮，
- 显示区会显示"Q"，连续按下"向上"按钮，直到显示区显示字母"z"为止，其他字母的输入方式以此类推；
+According to the actual situation Users can use "Up"or "Down"Select the name of the WIFI hotspot to be connected, and press the [Enter] key.
+Enter the [Select Network] interface, enter the password of this WIFI hotspot, if the WIFI password contains letters, use "Up"to switch, for example: if the WIFI password contains the letter "z", first press the number key "1" containing the changed letter, After pressing "Up" the display area will display “Q”, press "Up"continuously, until that the display area displays the letter “z”, and the input method of other letters is similar;
 
-4.在【设置】界面也可以选择【3.移动数据】进行数据连接上网
+
+4.In the [Settings] interface, you can also select [3. Mobile Data] to connect to the Internet.
 

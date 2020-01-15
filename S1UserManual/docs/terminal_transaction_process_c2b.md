@@ -1,22 +1,22 @@
-###终端交易流程（C扫B）
+###Terminal Transaction Flow（C To B）
 
 
 
-1.在主菜单页面选择【5.消费】；
+1.Select [5. Be swept] on the main menu page;
 
-2.、在【被扫支付】页面输入金额，并按【确认】按钮，即进入【支付渠道选择】页面；
+2.Enter the amount on the [Scanned Payments] page and press the [Confirm] button to enter the [Payment Channel Selection] page;
 
 ![image](./images/9.jpg)
 
-            图 7-1 支付渠道选择页面
+            Fig. 7-1 Payment channel selection page
 
-3. 以”支付宝” 为例，在【支付渠道选择】界面选择【1.支付宝】， 进入“待支付”界面，如下图：
+3. Take Alipay as an example, select [1. Alipay] on the [Payment Channel Selection] interface, and enter the “Pending Payment” interface. as follows：
 
 ![image](./images/10.jpg)
 
-               图 7-2 待支付界面
+               Fig. 7-2 paying interface
 
-顾客使用”支付宝”客户端”扫一扫”扫码界面，扫描上述”待支付”界面的二维码，由顾客”支付宝”客户端完成支付交易流程；
+The customer uses the "Alipay" client to "scan" the scan code interface, scan the two-dimensional code of the above "to be paid" interface, and complete the payment transaction process by the customer "Alipay" client;
 
 
 

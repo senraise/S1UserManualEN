@@ -1,10 +1,10 @@
-### 外观介绍
+### Appearance
 
 
 
-机具正面为显示区、 操作区；
+The front of the implement is a display area and an operation area;
+The front part is the scan code area.
 
-前部为扫码区。
 
  ![image](./images/1.1.jpg)
   
